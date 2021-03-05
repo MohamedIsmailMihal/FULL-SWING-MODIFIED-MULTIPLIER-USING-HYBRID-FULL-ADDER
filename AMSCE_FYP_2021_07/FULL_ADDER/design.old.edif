@@ -1,0 +1,19 @@
+(edif FULL_ADDER
+	(edifVersion 2 0 0)
+	(edifLevel 0)
+	(keywordMap
+		(keywordLevel 0)
+	)
+	(status
+		(written
+			(timestamp 2021 03 04 05 32 13)
+			(author "admin")
+			(program "Tanner S-Edit"
+				(version "15.10 build 5642")
+			)
+			(property TannerEdifVersion
+				(integer 10)
+			)
+		)
+	)
+)

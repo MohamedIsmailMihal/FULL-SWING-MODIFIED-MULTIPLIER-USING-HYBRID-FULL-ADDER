@@ -1,0 +1,7 @@
+workspace loadfrom -path .
+cell open -design {FULL SWING MODIFIED MULTIPLIER USING HYBRID FULL ADDER} -cell TEST_MULTIPLIER -type schematic -newwindow
+window move -left 150 -top 150 -width 321 -height 419 -undock -max 
+window fit -x0 -726 -y0 1414 -x1 9126 -y1 6092 -units iu
+workspace dockinglayout load -file {.\dockinglayout.xml}
+source open.design -relativeto user -encoding utf-8
+source open.design -relativeto design -encoding utf-8
