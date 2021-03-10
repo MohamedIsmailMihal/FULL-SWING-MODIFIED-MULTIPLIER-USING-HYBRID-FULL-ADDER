@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DockingPaneLayouts CompactMode="1">
 	<RegistyKey>
-		<Summary Panes="20" TopContainer="12" Client="18"/>
-		<Pane-1 Type="0" DockingCX="200" DockingCY="120" Title="Libraries\n\n" ID="3" DockingHolder="14" LastHolder="14"/>
-		<Pane-2 Type="0" DockingCX="200" DockingCY="120" Title="Hierarchy\n\n" ID="6" DockingHolder="14" LastHolder="14"/>
-		<Pane-3 Type="0" DockingCX="200" DockingCY="120" Title="Command\n\n" ID="1" DockingHolder="19" FloatingHolder="11" LastHolder="19"/>
-		<Pane-4 Type="0" DockingCX="200" DockingCY="120" Title="Properties\n\n" ID="2" DockingHolder="20" FloatingHolder="8" LastHolder="8"/>
-		<Pane-5 Type="0" DockingCX="200" DockingCY="120" Title="Find\n\n" ID="5" DockingHolder="20" FloatingHolder="8" LastHolder="8"/>
+		<Summary Panes="22" TopContainer="12" Client="19"/>
+		<Pane-1 Type="0" DockingCX="200" DockingCY="120" Title="Libraries\n\n" ID="3" DockingHolder="15" LastHolder="15"/>
+		<Pane-2 Type="0" DockingCX="200" DockingCY="120" Title="Hierarchy\n\n" ID="6" DockingHolder="15" LastHolder="15"/>
+		<Pane-3 Type="0" DockingCX="200" DockingCY="120" Title="Command\n\n" ID="1" DockingHolder="20" FloatingHolder="11" LastHolder="20"/>
+		<Pane-4 Type="0" DockingCX="200" DockingCY="120" Title="Properties\n\n" ID="2" DockingHolder="22" FloatingHolder="8" LastHolder="22"/>
+		<Pane-5 Type="0" DockingCX="200" DockingCY="120" Title="Find\n\n" ID="5" DockingHolder="21" FloatingHolder="8" LastHolder="8"/>
 		<Pane-6 Type="3" WindowRectTopPos="117" WindowRectBottomPos="237" WindowRectLeftPos="457" WindowRectRightPos="657" TopContaner="7"/>
 		<Pane-7 Type="2" DockingCX="200" DockingCY="120" Horiz="1" Panes="1" Pane-1="8"/>
 		<Pane-8 Type="1" DockingCX="200" DockingCY="120" Panes="0"/>
 		<Pane-9 Type="3" WindowRectTopPos="759" WindowRectBottomPos="879" WindowRectLeftPos="576" WindowRectRightPos="776" TopContaner="10"/>
 		<Pane-10 Type="2" DockingCX="200" DockingCY="120" Horiz="1" Panes="1" Pane-1="11"/>
 		<Pane-11 Type="1" DockingCX="200" DockingCY="120" Panes="0"/>
-		<Pane-12 Type="2" Panes="1" Pane-1="13"/>
-		<Pane-13 Type="2" DockingCY="614" Horiz="1" Panes="2" Pane-1="14" Pane-2="15"/>
-		<Pane-14 Type="1" DockingCX="200" DockingCY="120" Panes="2" Selected="1" Pane-1="1" Pane-2="2"/>
-		<Pane-15 Type="2" DockingCX="1236" Panes="1" Pane-1="16"/>
-		<Pane-16 Type="2" DockingCY="614" Horiz="1" Panes="2" Pane-1="17" Pane-2="20"/>
-		<Pane-17 Type="2" DockingCX="296" Panes="2" Pane-1="18" Pane-2="19"/>
-		<Pane-18 Type="4" DockingCY="614"/>
-		<Pane-19 Type="1" DockingCX="200" DockingCY="120" Panes="1" Selected="3" Pane-1="3"/>
-		<Pane-20 Type="1" DockingCX="200" DockingCY="120" Panes="0"/>
+		<Pane-12 Type="2" DockingCX="1440" Horiz="1" Panes="2" Pane-1="13" Pane-2="22"/>
+		<Pane-13 Type="2" DockingCX="1107" Panes="1" Pane-1="14"/>
+		<Pane-14 Type="2" DockingCY="614" Horiz="1" Panes="2" Pane-1="15" Pane-2="16"/>
+		<Pane-15 Type="1" DockingCX="200" DockingCY="120" Panes="2" Selected="1" Pane-1="1" Pane-2="2"/>
+		<Pane-16 Type="2" DockingCX="903" Panes="1" Pane-1="17"/>
+		<Pane-17 Type="2" DockingCY="614" Horiz="1" Panes="2" Pane-1="18" Pane-2="21"/>
+		<Pane-18 Type="2" DockingCX="296" Panes="2" Pane-1="19" Pane-2="20"/>
+		<Pane-19 Type="4" DockingCY="614"/>
+		<Pane-20 Type="1" DockingCX="200" DockingCY="120" Panes="1" Selected="3" Pane-1="3"/>
+		<Pane-21 Type="1" DockingCX="200" DockingCY="120" Panes="0"/>
+		<Pane-22 Type="1" DockingCX="329" DockingCY="120" Panes="1" Selected="4" Pane-1="4"/>
 	</RegistyKey>
 </DockingPaneLayouts>
